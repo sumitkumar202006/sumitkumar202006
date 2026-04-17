@@ -20,9 +20,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sumitkumar202006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ### 🔝 Top Projects
-- 🔹 CPU Scheduling Simulator — https://github.com/sumitkumar202006/your-repo
-- 🔹 AI Quiz Generator — https://github.com/sumitkumar202006/your-repo
-- 🔹 RoboRumble Website — https://github.com/sumitkumar202006/your-repo
+- 🔹 CPU Scheduling Simulator — https://github.com/sumitkumar202006/CPU-Scheduling-Simulator
+- 🔹 AI Quiz Generator — https://github.com/sumitkumar202006/SAMARPAN/tree/main
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

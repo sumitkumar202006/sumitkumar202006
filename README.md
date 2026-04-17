@@ -14,14 +14,8 @@
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.shion.dev/api?username=sumitkumar202006&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=sumitkumar202006&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitkumar202006&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumitkumar202006&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumitkumar202006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 🔝 Top Projects
 - 🔹 CPU Scheduling Simulator — https://github.com/sumitkumar202006/CPU-Scheduling-Simulator

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Second-year B.Tech Computer Science student with keen interests in Computer Networks, Operating Systems, and Cybersecurity. Experienced in building system-level applications, including a CPU Scheduling Simulator and an AI-enabled quiz platform. Focused on developing practical systems and exploring the integration of AI into real-world applications.
+🔭 Second-year B.Tech Computer Science student with keen interests in Computer Networks, Operating Systems, and Cybersecurity. Experienced in      building system-level applications, including a CPU Scheduling Simulator and an AI-enabled quiz platform. Focused on developing practical       systems and exploring the integration of AI into real-world applications.
 
 
 ## 🌐 Socials:

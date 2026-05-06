@@ -38,7 +38,7 @@ I build system-level and interactive applications with an emphasis on performanc
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
-### Other
+### Documentation & Writing
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)
 
 ---

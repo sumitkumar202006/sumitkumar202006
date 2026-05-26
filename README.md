@@ -1,5 +1,5 @@
 # 💫 About Me
-Second-year B.Tech Computer Science student focused on **Computer Networks, Operating Systems, and Cybersecurity**.  
+Second-year B.Tech Computer Science student focused on **Data Structures, Computer Architecture, Operating Systems, and Cybersecurity**.  
 I build system-level and interactive applications with an emphasis on performance, usability, and real-world relevance.
 
 ---

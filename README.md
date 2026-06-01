@@ -53,14 +53,15 @@ I build system-level and interactive applications with an emphasis on performanc
 ---
 
 ## 🔝 Projects
+
+- 🔹 User Information Form 
+  https://github.com/sumitkumar202006/Form
+  
 - 🔹 CPU Scheduling Simulator  
   https://github.com/sumitkumar202006/CPU-Scheduling-Simulator  
 
 - 🔹 AI Quiz Generator  
   https://github.com/sumitkumar202006/SAMARPAN
-
-- 🔹 AI Quiz Generator  
-  https://github.com/sumitkumar202006/Form 
 
 ---
 
